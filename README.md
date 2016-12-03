@@ -27,4 +27,13 @@ On windows you can create an Exe using ocra.
 
 #### gem installation
 - gem install ocra
-- On cmd, `ocra placeholder.rb`  
+- On cmd, run `ocra placeholder.rb`  
+- An .exe file is created. Double click it to run.
+
+### Mac
+On mac, ocra does not work. So:
+- On terminal, run `ruby placeholder.rb`
+
+#License
+
+Read from [Here](https://github.com/rakib-amin/automate-placeholder/blob/master/LICENSE).
