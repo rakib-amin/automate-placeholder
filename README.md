@@ -25,7 +25,6 @@ I chose phantomjs because it's headless, and Chrome/Firefox/IE Drivers needs to 
 ### Windows
 On windows you can create an Exe using ocra.
 
-#### gem installation
 - On cmd, type `gem install ocra`
 - Then `ocra placeholder.rb`  
 - An .exe file is created. Double click it to run.
